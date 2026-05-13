@@ -1,0 +1,29 @@
+# Global settings
+replicaCount: 2
+
+# Frontend settings
+frontend:
+  image:
+    repository: abhi-infra/frontend
+    tag: latest
+    pullPolicy: IfNotPresent
+  service:
+    type: LoadBalancer
+    port: 80
+  env:
+    API_URL: "http://backend-service"
+
+# Backend settings
+backend:
+  image:
+    repository: abhi-infra/backend
+    tag: latest
+    pullPolicy: IfNotPresent
+  service:
+    type: ClusterIP
+    port: 5000
+  env:
+    DB_HOST: "rds-endpoint-here"
+    DB_NAME: "appdb"
+    DB_USER: "postgres"
+    DB_PASSWORD: "SecurePass123!"
