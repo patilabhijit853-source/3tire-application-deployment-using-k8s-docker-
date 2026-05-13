@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise 3-Tier Application Deployment on AWS EKS
 
 This project demonstrates a production-grade deployment of a 3-tier web application using a modern DevOps stack. It is designed to be scalable, secure, and fully automated, making it a perfect addition to a professional DevOps portfolio.
@@ -97,3 +98,6 @@ Estimated cost for a **1-hour run**:
 
 ## 🛠 Tech Stack Summary
 `Terraform` $\rightarrow$ `AWS EKS` $\rightarrow$ `Docker` $\rightarrow$ `Helm` $\rightarrow$ `GitHub Actions` $\rightarrow$ `React/Node.js/Postgres`
+=======
+# 3tire-application-deployment-using-k8s-docker-
+>>>>>>> 286baf84bdf15b6774aa3d41d1475d409440d4ec
