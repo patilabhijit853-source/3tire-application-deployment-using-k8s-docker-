@@ -101,3 +101,11 @@ Estimated cost for a **1-hour run**:
 =======
 # 3tire-application-deployment-using-k8s-docker-
 >>>>>>> 286baf84bdf15b6774aa3d41d1475d409440d4ec
+
+### Screenshots 
+<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/255bcc6a-b7ac-47e1-8b6a-46fc5e4be19a" />
+<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/13e33126-a400-4196-83b8-be9b26fc6014" />
+<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/34cda9a3-85ab-4972-80ed-50bb9f1aba24" />
+<img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/fb3f1c4a-46f3-434e-98d9-6c201eaa2e1a" />
+<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/18a9463c-2d1b-4a60-9f57-166b2c292964" />
+
