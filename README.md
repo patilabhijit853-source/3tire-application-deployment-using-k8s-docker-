@@ -1,17 +1,19 @@
-<<<<<<< HEAD
+<<<<<<< commit
 # Enterprise 3-Tier Application Deployment on AWS EKS
 
 This project demonstrates a production-grade deployment of a 3-tier web application using a modern DevOps stack. It is designed to be scalable, secure, and fully automated, making it a perfect addition to a professional DevOps portfolio.
 
 ## 🚀 Live Demo
-The application is currently deployed on AWS EKS. You can access it here:
-[http://acb45b60598414df8bc35c24b1a20cd7-1408632945.ap-south-1.elb.amazonaws.com](http://acb45b60598414df8bc35c24b1a20cd7-1408632945.ap-south-1.elb.amazonaws.com)
-
-## 🚀 Live Demo
 Currently not deployed (infrastructure is offline).
 
 ---
+## 📌 Key Highlights
 
+- Fully automated CI/CD pipeline using GitHub Actions
+- Scalable microservices architecture
+- Production-grade Kubernetes deployment on AWS EKS
+- Infrastructure as Code using Terraform
+- 
 ## 🏗 Architecture Overview
 
 The application consists of three distinct layers:
@@ -100,13 +102,23 @@ Estimated cost for a **1-hour run**:
 ---
 
 ## 🛠 Tech Stack Summary
-`Terraform` $\rightarrow$ `AWS EKS` $\rightarrow$ `Docker` $\rightarrow$ `Helm` $\rightarrow$ `GitHub Actions` $\rightarrow$ `React/Node.js/Postgres`
+- Terraform (Infrastructure as Code)
+- AWS EKS (Kubernetes Orchestration)
+- Docker (Containerization)
+- Helm (Kubernetes Packaging)
+- GitHub Actions (CI/CD)
+- React + Node.js + PostgreSQL
 =======
 # 3tire-application-deployment-using-k8s-docker-
 >>>>>>> 286baf84bdf15b6774aa3d41d1475d409440d4ec
 
-### Screenshots 
-<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/255bcc6a-b7ac-47e1-8b6a-46fc5e4be19a" />
+### Screenshots ## 📸 Screenshots
+
+- Frontend UI  
+- Backend API response  
+- Kubernetes pods  
+- AWS EKS dashboard    
+
 <img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/13e33126-a400-4196-83b8-be9b26fc6014" />
 <img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/34cda9a3-85ab-4972-80ed-50bb9f1aba24" />
 <img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/fb3f1c4a-46f3-434e-98d9-6c201eaa2e1a" />
