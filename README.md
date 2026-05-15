@@ -7,6 +7,9 @@ This project demonstrates a production-grade deployment of a 3-tier web applicat
 The application is currently deployed on AWS EKS. You can access it here:
 [http://acb45b60598414df8bc35c24b1a20cd7-1408632945.ap-south-1.elb.amazonaws.com](http://acb45b60598414df8bc35c24b1a20cd7-1408632945.ap-south-1.elb.amazonaws.com)
 
+## 🚀 Live Demo
+Currently not deployed (infrastructure is offline).
+
 ---
 
 ## 🏗 Architecture Overview
