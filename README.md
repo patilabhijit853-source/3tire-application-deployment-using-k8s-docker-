@@ -1,4 +1,4 @@
-<<<<<<< commit
+
 # Enterprise 3-Tier Application Deployment on AWS EKS
 
 This project demonstrates a production-grade deployment of a 3-tier web application using a modern DevOps stack. It is designed to be scalable, secure, and fully automated, making it a perfect addition to a professional DevOps portfolio.
